@@ -1,0 +1,48 @@
+C:\beytullah\3_sinif\gorsel_programalama\proje\Iron yayinevi\Iron yayinevi\bin\Debug\netcoreapp3.1\Iron yayinevi.exe
+C:\beytullah\3_sinif\gorsel_programalama\proje\Iron yayinevi\Iron yayinevi\obj\Debug\netcoreapp3.1\Iron_yayinevi.Form1.resources
+C:\beytullah\3_sinif\gorsel_programalama\proje\Iron yayinevi\Iron yayinevi\obj\Debug\netcoreapp3.1\Iron yayinevi.csproj.GenerateResource.cache
+C:\beytullah\3_sinif\gorsel_programalama\proje\Iron yayinevi\Iron yayinevi\obj\Debug\netcoreapp3.1\Iron yayinevi.AssemblyInfoInputs.cache
+C:\beytullah\3_sinif\gorsel_programalama\proje\Iron yayinevi\Iron yayinevi\obj\Debug\netcoreapp3.1\Iron yayinevi.AssemblyInfo.cs
+C:\beytullah\3_sinif\gorsel_programalama\proje\Iron yayinevi\Iron yayinevi\bin\Debug\netcoreapp3.1\ironheadcsharp-firebase-adminsdk-rfuz8-254703e7d6.json
+C:\beytullah\3_sinif\gorsel_programalama\proje\Iron yayinevi\Iron yayinevi\bin\Debug\netcoreapp3.1\Iron yayinevi.deps.json
+C:\beytullah\3_sinif\gorsel_programalama\proje\Iron yayinevi\Iron yayinevi\bin\Debug\netcoreapp3.1\Iron yayinevi.runtimeconfig.json
+C:\beytullah\3_sinif\gorsel_programalama\proje\Iron yayinevi\Iron yayinevi\bin\Debug\netcoreapp3.1\Iron yayinevi.runtimeconfig.dev.json
+C:\beytullah\3_sinif\gorsel_programalama\proje\Iron yayinevi\Iron yayinevi\bin\Debug\netcoreapp3.1\Iron yayinevi.dll
+C:\beytullah\3_sinif\gorsel_programalama\proje\Iron yayinevi\Iron yayinevi\bin\Debug\netcoreapp3.1\Iron yayinevi.pdb
+C:\beytullah\3_sinif\gorsel_programalama\proje\Iron yayinevi\Iron yayinevi\bin\Debug\netcoreapp3.1\Google.Api.CommonProtos.dll
+C:\beytullah\3_sinif\gorsel_programalama\proje\Iron yayinevi\Iron yayinevi\bin\Debug\netcoreapp3.1\Google.Api.Gax.dll
+C:\beytullah\3_sinif\gorsel_programalama\proje\Iron yayinevi\Iron yayinevi\bin\Debug\netcoreapp3.1\Google.Api.Gax.Grpc.dll
+C:\beytullah\3_sinif\gorsel_programalama\proje\Iron yayinevi\Iron yayinevi\bin\Debug\netcoreapp3.1\Google.Api.Gax.Grpc.GrpcCore.dll
+C:\beytullah\3_sinif\gorsel_programalama\proje\Iron yayinevi\Iron yayinevi\bin\Debug\netcoreapp3.1\Google.Apis.dll
+C:\beytullah\3_sinif\gorsel_programalama\proje\Iron yayinevi\Iron yayinevi\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+C:\beytullah\3_sinif\gorsel_programalama\proje\Iron yayinevi\Iron yayinevi\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+C:\beytullah\3_sinif\gorsel_programalama\proje\Iron yayinevi\Iron yayinevi\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+C:\beytullah\3_sinif\gorsel_programalama\proje\Iron yayinevi\Iron yayinevi\bin\Debug\netcoreapp3.1\Google.Cloud.Firestore.dll
+C:\beytullah\3_sinif\gorsel_programalama\proje\Iron yayinevi\Iron yayinevi\bin\Debug\netcoreapp3.1\Google.Cloud.Firestore.V1.dll
+C:\beytullah\3_sinif\gorsel_programalama\proje\Iron yayinevi\Iron yayinevi\bin\Debug\netcoreapp3.1\Google.LongRunning.dll
+C:\beytullah\3_sinif\gorsel_programalama\proje\Iron yayinevi\Iron yayinevi\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\beytullah\3_sinif\gorsel_programalama\proje\Iron yayinevi\Iron yayinevi\bin\Debug\netcoreapp3.1\Grpc.Auth.dll
+C:\beytullah\3_sinif\gorsel_programalama\proje\Iron yayinevi\Iron yayinevi\bin\Debug\netcoreapp3.1\Grpc.Core.dll
+C:\beytullah\3_sinif\gorsel_programalama\proje\Iron yayinevi\Iron yayinevi\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\beytullah\3_sinif\gorsel_programalama\proje\Iron yayinevi\Iron yayinevi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\beytullah\3_sinif\gorsel_programalama\proje\Iron yayinevi\Iron yayinevi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\beytullah\3_sinif\gorsel_programalama\proje\Iron yayinevi\Iron yayinevi\bin\Debug\netcoreapp3.1\System.Linq.Async.dll
+C:\beytullah\3_sinif\gorsel_programalama\proje\Iron yayinevi\Iron yayinevi\bin\Debug\netcoreapp3.1\runtimes\linux\native\libgrpc_csharp_ext.x64.so
+C:\beytullah\3_sinif\gorsel_programalama\proje\Iron yayinevi\Iron yayinevi\bin\Debug\netcoreapp3.1\runtimes\linux\native\libgrpc_csharp_ext.x86.so
+C:\beytullah\3_sinif\gorsel_programalama\proje\Iron yayinevi\Iron yayinevi\bin\Debug\netcoreapp3.1\runtimes\osx\native\libgrpc_csharp_ext.x64.dylib
+C:\beytullah\3_sinif\gorsel_programalama\proje\Iron yayinevi\Iron yayinevi\bin\Debug\netcoreapp3.1\runtimes\osx\native\libgrpc_csharp_ext.x86.dylib
+C:\beytullah\3_sinif\gorsel_programalama\proje\Iron yayinevi\Iron yayinevi\bin\Debug\netcoreapp3.1\runtimes\win\native\grpc_csharp_ext.x64.dll
+C:\beytullah\3_sinif\gorsel_programalama\proje\Iron yayinevi\Iron yayinevi\bin\Debug\netcoreapp3.1\runtimes\win\native\grpc_csharp_ext.x86.dll
+C:\beytullah\3_sinif\gorsel_programalama\proje\Iron yayinevi\Iron yayinevi\obj\Debug\netcoreapp3.1\Iron yayinevi.csproj.CoreCompileInputs.cache
+C:\beytullah\3_sinif\gorsel_programalama\proje\Iron yayinevi\Iron yayinevi\obj\Debug\netcoreapp3.1\Iron yayinevi.csproj.CopyComplete
+C:\beytullah\3_sinif\gorsel_programalama\proje\Iron yayinevi\Iron yayinevi\obj\Debug\netcoreapp3.1\Iron yayinevi.dll
+C:\beytullah\3_sinif\gorsel_programalama\proje\Iron yayinevi\Iron yayinevi\obj\Debug\netcoreapp3.1\Iron yayinevi.pdb
+C:\beytullah\3_sinif\gorsel_programalama\proje\Iron yayinevi\Iron yayinevi\obj\Debug\netcoreapp3.1\Iron yayinevi.genruntimeconfig.cache
+C:\beytullah\3_sinif\gorsel_programalama\proje\Iron yayinevi\Iron yayinevi\obj\Debug\netcoreapp3.1\Iron_yayinevi.LoginForm.resources
+C:\beytullah\3_sinif\gorsel_programalama\proje\Iron yayinevi\Iron yayinevi\obj\Debug\netcoreapp3.1\Iron_yayinevi.RegisterForm.resources
+C:\beytullah\3_sinif\gorsel_programalama\proje\Iron yayinevi\Iron yayinevi\obj\Debug\netcoreapp3.1\Iron_yayinevi.Properties.Resources.resources
+C:\beytullah\3_sinif\gorsel_programalama\proje\Iron yayinevi\Iron yayinevi\obj\Debug\netcoreapp3.1\Iron_yayinevi.UserControlItem.resources
+C:\beytullah\3_sinif\gorsel_programalama\proje\Iron yayinevi\Iron yayinevi\obj\Debug\netcoreapp3.1\Iron yayinevi.csprojAssemblyReference.cache
+C:\beytullah\3_sinif\gorsel_programalama\proje\Iron yayinevi\Iron yayinevi\obj\Debug\netcoreapp3.1\Iron_yayinevi.DergiEkle.resources
+C:\beytullah\3_sinif\gorsel_programalama\proje\Iron yayinevi\Iron yayinevi\obj\Debug\netcoreapp3.1\Iron_yayinevi.Kitap_ekle.resources
+C:\beytullah\3_sinif\gorsel_programalama\proje\Iron yayinevi\Iron yayinevi\obj\Debug\netcoreapp3.1\Iron_yayinevi.Kitap_Dergi_detay_form.resources
